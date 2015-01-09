@@ -1,0 +1,2 @@
+# -LeagueSharp
+Error - LeagueSharp.Common
