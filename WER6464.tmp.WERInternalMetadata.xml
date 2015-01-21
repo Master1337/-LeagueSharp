@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<WERReportMetadata>
+	<OSVersionInformation>
+		<WindowsNTVersion>6.1</WindowsNTVersion>
+		<Build>7601 Service Pack 1</Build>
+		<Product>(0x3): Windows 7 Home Premium</Product>
+		<Edition>HomePremium</Edition>
+		<BuildString>7601.18409.amd64fre.win7sp1_gdr.140303-2144</BuildString>
+		<Revision>1130</Revision>
+		<Flavor>Multiprocessor Free</Flavor>
+		<Architecture>X64</Architecture>
+		<LCID>1030</LCID>
+	</OSVersionInformation>
+	<ProblemSignatures>
+		<EventType>CLR20r3</EventType>
+		<Parameter0>leaguesharp.loader.exe</Parameter0>
+		<Parameter1>1.0.0.13</Parameter1>
+		<Parameter2>54bec0be</Parameter2>
+		<Parameter3>System</Parameter3>
+		<Parameter4>4.0.30319.18408</Parameter4>
+		<Parameter5>52311185</Parameter5>
+		<Parameter6>2f6c</Parameter6>
+		<Parameter7>15d</Parameter7>
+		<Parameter8>N3CTRYE2KN3C34SGL4ZQYRBFTE4M13NB</Parameter8>
+	</ProblemSignatures>
+	<DynamicSignatures>
+		<Parameter1>6.1.7601.2.1.0.768.3</Parameter1>
+		<Parameter2>1030</Parameter2>
+		<Parameter22>0a9e</Parameter22>
+		<Parameter23>0a9e372d3b4ad19135b953a78882e789</Parameter23>
+		<Parameter24>0a9e</Parameter24>
+		<Parameter25>0a9e372d3b4ad19135b953a78882e789</Parameter25>
+	</DynamicSignatures>
+	<SystemInformation>
+		<MID>6B286CE5-4EC8-4CCE-BBC7-1286E63C1722</MID>
+		<MarkerFile>1025_ACER_ACER_AG3610</MarkerFile>
+		<SystemManufacturer>Acer</SystemManufacturer>
+		<SystemProductName>Predator G3610</SystemProductName>
+		<BIOSVersion>P02-A2</BIOSVersion>
+	</SystemInformation>
+</WERReportMetadata>
